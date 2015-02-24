@@ -1,0 +1,28 @@
+body {
+  background-image: url("images/wave-surfing-big-waves.jpg");
+  background-size: 100% auto;
+  color: yellow;
+  font-family: "Raleway";
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: "Lora";
+}
+
+img {
+  float: left;
+  width: 200px;
+}
+
+.profile {
+  float: left;
+  width: 25%;
+}
+
+.profile > h3 {
+  text-align: left;
+  position: absolute;
+  padding-top: 25px;
+  padding-left: 25px;
+}
